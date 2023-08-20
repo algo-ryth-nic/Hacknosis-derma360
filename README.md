@@ -1,5 +1,2 @@
-# skin-vision
-
-Cllg Project
-
-## Reactjs + Flask
+# Derma360
+Built using Reactjs + Flask
